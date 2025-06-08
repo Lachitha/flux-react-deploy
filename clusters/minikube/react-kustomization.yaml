@@ -9,5 +9,5 @@ spec:
   prune: true
   sourceRef:
     kind: GitRepository
-    name: flux-react
+    name: flux-react-deploy
   targetNamespace: default
