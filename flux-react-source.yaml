@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: main
-  url: https://github.com/Lachithaflux-react-deploy
+  url: https://github.com/Lachitha/flux-react-deploy.git
