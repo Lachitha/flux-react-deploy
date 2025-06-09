@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: lachisenarath576259/react-hello:a2d570cbeabb4f4f62919b9571dd830fc5794b5d
+          image: lachisenarath576259/react-hello:c78c2be47af3196fce1dc1dbd89d4219c54e70cd
           ports:
             - containerPort: 80
 ---
@@ -32,4 +32,4 @@ spec:
   template:
     spec:
       containers:
-        - image: lachisenarath576259/react-hello:a2d570cbeabb4f4f62919b9571dd830fc5794b5d
+        - image: lachisenarath576259/react-hello:c78c2be47af3196fce1dc1dbd89d4219c54e70cd
